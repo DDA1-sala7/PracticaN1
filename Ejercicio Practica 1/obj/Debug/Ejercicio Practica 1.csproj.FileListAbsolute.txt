@@ -1,0 +1,59 @@
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\Ejercicio Practica 1.dll.config
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\Ejercicio Practica 1.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\Ejercicio Practica 1.pdb
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\csc.exe
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\csc.exe.config
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\csc.rsp
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\csi.exe
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\csi.exe.config
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\csi.rsp
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.AppContext.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Collections.Immutable.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Console.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Globalization.Calendars.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.IO.Compression.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.IO.FileSystem.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Net.Http.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Net.Sockets.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Reflection.Metadata.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.ValueTuple.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Xml.XPath.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\vbc.exe
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\vbc.exe.config
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\vbc.rsp
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\VBCSCompiler.exe
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\roslyn\VBCSCompiler.exe.config
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\obj\Debug\Ejercicio Practica 1.csproj.AssemblyReference.cache
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\obj\Debug\Ejercicio Practica 1.csproj.CoreCompileInputs.cache
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\obj\Debug\Ejercicio Practica 1.csproj.CopyComplete
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\obj\Debug\Ejercicio Practica 1.dll
+D:\UCSM\6' SEMESTRE\DDA\source\repos\Ejercicio Practica 1\obj\Debug\Ejercicio Practica 1.pdb
